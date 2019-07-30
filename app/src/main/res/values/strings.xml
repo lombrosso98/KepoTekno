@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Kepo Tekno</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="smartphone">Smartphone</string>
+    <string name="tablet">Tablet</string>
+    <string name="laptop">Laptop</string>
+    <string name="dslr">DSLR</string>
+    <string name="kepoin_harga_teknologi">Kepoin Harga Teknologi</string>
+    <string name="spesifikasi">Spesifikasi</string>
+    <string name="network">2G Network / 3G Network / 4G Network</string>
+    <string name="judul_toko">TOKO FISIK YANG MENJUAL HP REALME 3 PRO</string>
+    <string name="hubungi">Hubungi Penjual</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="email_dev">brokendesign97@gmail.com</string>
+    <string name="email">Email</string>
+    <string name="npm_user">16116601</string>
+    <string name="npm">NPM</string>
+    <string name="nama_user">Rizky Dwi Purnomo</string>
+    <string name="nama">Nama</string>
+    <string name="build">Build</string>
+    <string name="date">July, 2019</string>
+    <string name="ex_ram">RAM : 4GB</string>
+    <string name="ex_resolusi_kamera">Resolusi Kamera : 8 MP</string>
+    <string name="detail">Detail</string>
+</resources>

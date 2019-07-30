@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".feature.home.HomeFragment">
+
+    <LinearLayout
+            android:background="@color/colorWhite"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="8dp"
+            android:orientation="vertical">
+
+        <LinearLayout
+                android:background="@drawable/back"
+                android:layout_width="400dp"
+                android:layout_height="200dp"
+                android:orientation="vertical"
+                android:layout_gravity="center">
+
+            <ImageView
+                    android:layout_width="170dp"
+                    android:layout_height="80dp"
+                    android:layout_marginTop="40dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/logo"/>
+
+            <TextView
+                    android:layout_width="400dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="23dp"
+                    android:layout_marginBottom="30dp"
+                    android:textSize="18dp"
+                    android:textAlignment="center"
+                    android:text="Memberi anda infromasi harga tekno terkini"
+                    android:fontFamily="@font/roboto_condensed_bold"/>
+        </LinearLayout>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/roboto_condensed_bold"
+                android:textColor="@color/colorBlack"
+                android:text="Smartphone"/>
+
+        <android.support.v7.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:id="@+id/rvSmartphoneHome"
+                android:layout_marginTop="8dp"/>
+
+        <TextView
+                android:fontFamily="@font/roboto_condensed_bold"
+                android:textColor="@color/colorBlack"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tablet"
+                android:layout_marginTop="16dp"/>
+
+        <android.support.v7.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:id="@+id/rvTabletHome"
+                android:layout_marginTop="8dp"/>
+
+        <TextView
+                android:fontFamily="@font/roboto_condensed_bold"
+                android:textColor="@color/colorBlack"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Laptop"
+                android:layout_marginTop="16dp"/>
+
+        <android.support.v7.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:id="@+id/rvLaptopHome"
+                android:layout_marginTop="8dp"/>
+
+        <TextView
+                android:fontFamily="@font/roboto_condensed_bold"
+                android:textColor="@color/colorBlack"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kamera"
+                android:layout_marginTop="16dp"/>
+
+        <android.support.v7.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:id="@+id/rvKameraHome"
+                android:layout_marginTop="8dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

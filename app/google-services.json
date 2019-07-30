@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "244823395940",
+    "firebase_url": "https://kepotekno-39ac9.firebaseio.com",
+    "project_id": "kepotekno-39ac9",
+    "storage_bucket": "kepotekno-39ac9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244823395940:android:3dad0bbb03a346b4",
+        "android_client_info": {
+          "package_name": "com.example.kepotekno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244823395940-r28aqt8ileoj8vi3agrglb8cifgtsr88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kepotekno",
+            "certificate_hash": "532ae80745c37dd508cfea42f35c305c318ccff1"
+          }
+        },
+        {
+          "client_id": "244823395940-d91gofaah45tm04mat1113dpl7h13hjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAd-D7qY-NXZYd8VCWP2c9aTfjYYGJlS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244823395940-d91gofaah45tm04mat1113dpl7h13hjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
